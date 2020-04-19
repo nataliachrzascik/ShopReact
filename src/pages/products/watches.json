@@ -1,0 +1,44 @@
+[
+  {
+    "productID": 500,
+    "shortDescryption": "elegancki zegarek",
+    "descryption": "Elegancki, klasyczny zegarek",
+    "img": "url('/ShopReact/images/watch1.jpg')",
+    "price": 199.99
+  },
+  {
+    "productID": 501,
+    "shortDescryption": "nowoczesny zegarek",
+    "descryption": "Elegancki, klasyczny zegarek",
+    "img": "url('/ShopReact/images/watch2.jpg')",
+    "price": 199.99
+  },
+  {
+    "productID": 502,
+    "shortDescryption": "wielo funkcyjny zegarek",
+    "descryption": "Elegancki, klasyczny zegarek",
+    "img": "url('/ShopReact/images/watch3.jpg')",
+    "price": 399.99
+  },
+  {
+    "productID": 503,
+    "shortDescryption": "klasyczny zegarek",
+    "descryption": "Elegancki, klasyczny zegarek",
+    "img": "url('/ShopReact/images/watch4.jpg')",
+    "price": 169.99
+  },
+  {
+    "productID": 504,
+    "shortDescryption": "elegancki zegarek",
+    "descryption": "Elegancki, klasyczny zegarek",
+    "img": "url('/ShopReact/images/watch5.jpg')",
+    "price": 259.99
+  },
+  {
+    "productID": 505,
+    "shortDescryption": "elegancki zegarek",
+    "descryption": "Elegancki, klasyczny zegarek",
+    "img": "url('/ShopReact/images/watch6.jpg')",
+    "price": 299.99
+  }
+]

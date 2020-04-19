@@ -1,0 +1,44 @@
+[
+  {
+    "productID": 300,
+    "shortDescryption": "męska ciemna marynarka",
+    "descryption": "Klasyczna, męska ciemna marynarka",
+    "img": "url('/ShopReact/images/model.jpg?raw=true')",
+    "price": 249.99
+  },
+  {
+    "productID": 301,
+    "shortDescryption": "damska ciemna kurtka",
+    "descryption": "Klasyczna, męska ciemna marynarka",
+    "img": "url('/ShopReact/images/winter1.jpg?raw=true')",
+    "price": 169.99
+  },
+  {
+    "productID": 302,
+    "shortDescryption": "męska karmelowa kurtka",
+    "descryption": "Klasyczna, męska ciemna marynarka",
+    "img": "url('/ShopReact/images/winter2.jpg?raw=true')",
+    "price": 200.99
+  },
+  {
+    "productID": 303,
+    "shortDescryption": "damska jeansowa ramoneska",
+    "descryption": "Klasyczna, męska ciemna marynarka",
+    "img": "url('/ShopReact/images/winter3.jpg')",
+    "price": 229.99
+  },
+  {
+    "productID": 304,
+    "shortDescryption": "damski szary płaszcz",
+    "descryption": "Klasyczna, męska ciemna marynarka",
+    "img": "url('/ShopReact/images/winter4.jpg')",
+    "price": 312.99
+  },
+  {
+    "productID": 305,
+    "shortDescryption": "męska szara marynarka",
+    "descryption": "Klasyczna, męska ciemna marynarka",
+    "img": "url('/ShopReact/images/winter6.jpg')",
+    "price": 179.99
+  }
+]

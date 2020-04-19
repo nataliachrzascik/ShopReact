@@ -1,0 +1,37 @@
+[
+  {
+    "productID": 100,
+    "shortDescryption": "duża czarna torebka",
+    "descryption": "Elegancka, czarna torebka z prawdziwej skóry",
+    "img": "url('/ShopReact/images/bag.jpg')",
+    "price": 149.99
+  },
+  {
+    "productID": 101,
+    "shortDescryption": "mała brązowa torebka",
+    "descryption": "Mała, wzorzysta torebka",
+    "img": "url('/ShopReact/images/bag1.jpg')",
+    "price": 79.99
+  },
+  {
+    "productID": 102,
+    "shortDescryption": "duża brązowa torebka",
+    "descryption": "Pojemna, brązowa torebka do codziennego użytku",
+    "img": "url('/ShopReact/images/bag2.jpg')",
+    "price": 179.99
+  },
+  {
+    "productID": 103,
+    "shortDescryption": "mała brązowa torebka",
+    "descryption": "Ponadczasowa elegancka torebka z prawdziwej skóry",
+    "img": "url('/ShopReact/images/bag3.jpg')",
+    "price": 219.99
+  },
+  {
+    "productID": 104,
+    "shortDescryption": "mała czerwona torebka",
+    "descryption": "Rzucająca sie w oczy mała, czerowna torebka",
+    "img": "url('/ShopReact/images/bag4.jpg')",
+    "price": 149.99
+  }
+]

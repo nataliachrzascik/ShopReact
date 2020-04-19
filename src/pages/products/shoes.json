@@ -1,0 +1,51 @@
+[
+  {
+    "productID": 400,
+    "shortDescryption": "męskie sneakersy",
+    "descryption": "Sportowe, męskie ciemne sneakersy",
+    "img": "url('/ShopReact/images/shoes.jpg')",
+    "price": 179.99
+  },
+  {
+    "productID": 401,
+    "shortDescryption": "damskie czerowne szpilki",
+    "descryption": "Eleganckie, damskie czerwone szpilki",
+    "img": "url('/ShopReact/images/shoes1.jpg')",
+    "price": 199.99
+  },
+  {
+    "productID": 402,
+    "shortDescryption": "damskie botki",
+    "descryption": "Błyszczące, damskie ciemne botki",
+    "img": "url('/ShopReact/images/shoes2.jpg')",
+    "price": 299.99
+  },
+  {
+    "productID": 403,
+    "shortDescryption": "męskie trapery",
+    "descryption": "Górskie, męskie karmelowe trapery",
+    "img": "url('/ShopReact/images/shoes3.jpg')",
+    "price": 289.99
+  },
+  {
+    "productID": 404,
+    "shortDescryption": "damskie trampki",
+    "descryption": "Sportowe, damskie białe trampki",
+    "img": "url('/ShopReact/images/shoes4.jpg')",
+    "price": 159.99
+  },
+  {
+    "productID": 405,
+    "shortDescryption": "męskie eleganckie",
+    "descryption": "Skórzane, męskie, ciemno brązowe buty",
+    "img": "url('/ShopReact/images/shoes5.jpg')",
+    "price": 399.99
+  },
+  {
+    "productID": 406,
+    "shortDescryption": "męskie kolorowe sneakersy",
+    "descryption": "Sportowe, męskie kolorowe sneakersy",
+    "img": "url('/ShopReact/images/shoes6.jpg')",
+    "price": 299.99
+  }
+]

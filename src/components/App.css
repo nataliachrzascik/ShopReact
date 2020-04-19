@@ -1,0 +1,98 @@
+/* menu */
+#container {
+  position: fixed;
+  width: 100%;
+  height: 15vh;
+  z-index: 1;
+}
+#containerMenu {
+  line-height: 1.2rem;
+  height: 10vh;
+  width: 90%;
+  background-color: #767676;
+  padding-left: 10%;
+}
+#containerName {
+  height: 10vh;
+  background-color: #3e3e3e;
+  padding: 1%;
+  padding-left: 30%;
+}
+
+#menuTag {
+  display: inline-block;
+  line-height: 1.3rem;
+}
+h1 {
+  padding-left: 60%;
+  color: white;
+  font-family: "Liu Jian Mao Cao", "Lucida Sans", Arial, sans-serif;
+  text-decoration: underline;
+}
+h1:hover {
+  cursor: pointer;
+}
+#menuRightTags {
+  display: inline-block;
+  width: 35%;
+  padding-right: 2%;
+  margin-left: 20%;
+}
+.fa-shopping-bag {
+  color: white;
+  padding-left: 3%;
+  font-size: 1.7em;
+  float: right;
+}
+.fas:hover {
+  cursor: pointer;
+}
+
+.menuCategory {
+  display: inline-block;
+  width: 15%;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  font-size: 1.3em;
+  height: 100%;
+  line-height: 3.5em;
+}
+.menuCategory:hover {
+  cursor: pointer;
+  background-color: ivory;
+  color: #3e3e3e;
+}
+
+/*zdjecie reklamowe */
+#advert {
+  margin-top: 2%;
+  width: 100%;
+  height: 20vh;
+  background-image: url(../images/glasses1.jpg);
+}
+
+/* stopka */
+footer {
+  width: 100%;
+  height: 30vh;
+  background-color: #767676;
+  margin-top: 2%;
+}
+.foot {
+  display: inline-block;
+  width: 20%;
+  border-bottom: 1px solid darkgrey;
+  margin-right: 2%;
+  font-size: 1.5em;
+  color: white;
+  text-transform: uppercase;
+  padding-bottom: 2%;
+  padding-top: 2%;
+}
+.foot:first-child {
+  margin-left: 10%;
+}
+.foot:hover {
+  cursor: pointer;
+}

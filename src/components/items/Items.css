@@ -1,0 +1,58 @@
+.thing {
+  width: 20%;
+  height: 30%;
+  margin: 2%;
+  display: inline-block;
+  background-size: cover;
+}
+.border {
+  padding: 2%;
+  margin-top: 80%;
+  background-color: #e8e4da;
+}
+.border:hover {
+  cursor: pointer;
+}
+.price {
+  margin-top: 0;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 1.5em;
+  color: black;
+}
+.thingName {
+  padding-top: 2%;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+}
+.thing:hover {
+  filter: saturate(0.7);
+}
+.bagAdd {
+  float: right;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+@keyframes example {
+  from {
+    color: rgb(168, 168, 168);
+  }
+  to {
+    color: rgb(37, 43, 43);
+  }
+}
+.fa-shopping-bag-product:active {
+  animation-name: example;
+  animation-duration: 0.3s;
+}
+.fas:hover {
+  cursor: pointer;
+}
+.fa-shopping-bag {
+  color: white;
+  padding-left: 3%;
+  font-size: 1.7em;
+  float: right;
+}

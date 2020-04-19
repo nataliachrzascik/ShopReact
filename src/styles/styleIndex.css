@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Baloo Chettan 2", "Trebuchet MS", "Lucida Sans Unicode",
+    "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+/* media queries */
+
+@media all and (min-width: 1920px) {
+  #containerMenu {
+    line-height: 7rem;
+    font-size: 1.6em;
+  }
+  #containerName {
+    line-height: 7rem;
+    font-size: 2em;
+  }
+  #sliderText {
+    font-size: 5em;
+  }
+  #newsletterEmail,
+  #newsletterAd,
+  #collection,
+  footer,
+  .border,
+  .bagAdd {
+    font-size: 2em;
+  }
+  #emailNews {
+    height: 4vh !important;
+  }
+  h2 {
+    font-size: 5em !important;
+  }
+  #productAbout {
+    font-size: 3em !important;
+  }
+  #productPrice {
+    font-size: 2.5em !important;
+  }
+}
+
+@media all and (max-width: 1400px) {
+  #containerName {
+    padding-left: 10% !important;
+  }
+  #containerMenu {
+    font-size: 1.2em;
+  }
+  #containerName {
+    font-size: 1.2em;
+  }
+  #newsletterEmail,
+  #newsletterAd,
+  #collection,
+  footer,
+  .border,
+  .bagAdd {
+    font-size: 1.5em;
+  }
+}
+a {
+  text-decoration: none;
+}

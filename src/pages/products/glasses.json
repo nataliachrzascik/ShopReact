@@ -1,0 +1,58 @@
+[
+  {
+    "productID": 200,
+    "shortDescryption": "damskie ciemne okulary",
+    "descryption": "Eleganckie, damskie ciemne okulary",
+    "img": "url('/ShopReact/images/glasses1.jpg')",
+    "price": 49.99
+  },
+  {
+    "productID": 201,
+    "shortDescryption": "damskie ciemne okulary",
+    "descryption": "Klasyczne, damskie ciemne okulary",
+    "img": "url('/ShopReact/images/glasses2.jpg')",
+    "price": 179.99
+  },
+  {
+    "productID": 202,
+    "shortDescryption": "damskie ciemne okulary",
+    "descryption": "Eleganckie, damskie ciemne okulary",
+    "img": "url('/ShopReact/images/glasses3.jpg')",
+    "price": 89.99
+  },
+  {
+    "productID": 203,
+    "shortDescryption": "damskie okulary lustrzane",
+    "descryption": "Nowoczesne, lustrzane damskie  okulary",
+    "img": "url('/ShopReact/images/glasses4.jpg')",
+    "price": 139.99
+  },
+  {
+    "productID": 204,
+    "shortDescryption": "damskie ciemne okulary",
+    "descryption": "Eleganckie, damskie ciemne okulary",
+    "img": "url('/ShopReact/images/glasses5.jpg')",
+    "price": 49.99
+  },
+  {
+    "productID": 205,
+    "shortDescryption": "damskie różowe okulary",
+    "descryption": "Różowe okulary dla optymistek",
+    "img": "url('/ShopReact/images/glasses7.jpg')",
+    "price": 89.99
+  },
+  {
+    "productID": 206,
+    "shortDescryption": "damskie okulary lusterzane",
+    "descryption": "Eleganckie, damskie ciemne okulary",
+    "img": "url('/ShopReact/images/glasses11.jpg')",
+    "price": 129.99
+  },
+  {
+    "productID": 207,
+    "shortDescryption": "męskie ciemne okulary",
+    "descryption": "Młodzieżowe, męskie ciemne okulary",
+    "img": "url('/ShopReact/images/glasses14.jpg')",
+    "price": 168.99
+  }
+]

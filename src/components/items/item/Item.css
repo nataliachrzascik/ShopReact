@@ -1,0 +1,31 @@
+/* Item.js */
+#productContainer {
+  padding-top: 30vh;
+  padding-bottom: 2%;
+  border-bottom: 2px solid darkslategray;
+  height: 65vh;
+}
+#productImg {
+  width: 50%;
+  height: 100%;
+  display: inline-block;
+  background-size: cover;
+}
+#productText {
+  display: inline-block;
+  width: 40%;
+  position: absolute;
+  top: 40vh;
+  margin-left: 5%;
+}
+#productTitle {
+  border-bottom: 2px solid darkslategray;
+  border-top: 2px solid darkslategray;
+}
+#productAbout,
+#productPrice {
+  padding-top: 2%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+}
