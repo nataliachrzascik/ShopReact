@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ShopReact/static/css/main.7dae044f.chunk.css",
+    "main.js": "/ShopReact/static/js/main.17de64a0.chunk.js",
+    "main.js.map": "/ShopReact/static/js/main.17de64a0.chunk.js.map",
+    "runtime-main.js": "/ShopReact/static/js/runtime-main.b47141a5.js",
+    "runtime-main.js.map": "/ShopReact/static/js/runtime-main.b47141a5.js.map",
+    "static/js/2.8c44a80e.chunk.js": "/ShopReact/static/js/2.8c44a80e.chunk.js",
+    "static/js/2.8c44a80e.chunk.js.map": "/ShopReact/static/js/2.8c44a80e.chunk.js.map",
+    "index.html": "/ShopReact/index.html",
+    "precache-manifest.05c852d66f2c9ca2b05b666cab0958b2.js": "/ShopReact/precache-manifest.05c852d66f2c9ca2b05b666cab0958b2.js",
+    "service-worker.js": "/ShopReact/service-worker.js",
+    "static/css/main.7dae044f.chunk.css.map": "/ShopReact/static/css/main.7dae044f.chunk.css.map",
+    "static/js/2.8c44a80e.chunk.js.LICENSE.txt": "/ShopReact/static/js/2.8c44a80e.chunk.js.LICENSE.txt",
+    "static/media/accessories.jpg": "/ShopReact/static/media/accessories.23253faf.jpg",
+    "static/media/bag.jpg": "/ShopReact/static/media/bag.42ef78e0.jpg",
+    "static/media/Slider.css": "/ShopReact/static/media/bag1.c92ff70b.jpg",
+    "static/media/Main.css": "/ShopReact/static/media/winter6.723dc5e2.jpg",
+    "static/media/glasses3.jpg": "/ShopReact/static/media/glasses3.5a888d99.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b47141a5.js",
+    "static/js/2.8c44a80e.chunk.js",
+    "static/css/main.7dae044f.chunk.css",
+    "static/js/main.17de64a0.chunk.js"
+  ]
+}
